@@ -48,6 +48,11 @@ The core functionality has been completed. The navigation bar is fully functiona
 
 At Learn Ease, we believe that learning should be an engaging and fulfilling experience. Our platform is designed to remove the complexities of traditional learning methods, making education accessible and enjoyable for everyone.
 
+Have fun completing thousands of quizzes: <p align=""><img src="markdown_images/quiz.png" alt=" Quiz "></p>
+And when you finish one, others are waiting - with a simple layout you can finally understand what you are learning:
+<p align=""><img src="markdown_images/multiple.png" alt=" Quiz "></p>
+
+
 ## Installation and Setup
 1. Clone the repository: git clone https://github.com/yourusername/learnease.git
 2. Navigate to the project directory: cd learnease
