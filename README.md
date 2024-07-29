@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ls.test" target="_blank"><img src="markdown_images/ls.png" alt="LS Logo"></a></p>
+<p align="center"><a href="https://learnease.test" target="_blank"><img src="markdown_images/ls.png" alt="LS Logo"></a></p>
 
 
 ## About Learn Ease
