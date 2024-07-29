@@ -18,16 +18,14 @@ We are currently working on the "Your Activity" feature, which will allow users 
 <p align="center"><img src="markdown_images/nav-bar_1.png" alt="Nav Bar Before Log In"></p>
 <p align="center"><img src="markdown_images/nav-bar_2.png" alt="Nav Bar After Log In"></p>
 
-## Current Progress
-
-The core functionality is complete. The navigation bar is fully functional, except for the modules section, which is still in development. Authorization and quiz creation features are operational, with data stored in the database. The "Your Activity" feature is in progress.
-
 ## Vision 👀
 
 At Learn Ease, we believe learning should be engaging and fulfilling. Our platform simplifies traditional learning methods, making education accessible and enjoyable for everyone.
 
-Enjoy completing thousands of quizzes: <p align="center"><img src="markdown_images/quiz.png" alt="Quiz"></p>
-And when you finish one, more are waiting with a simple layout to help you understand what you're learning: <p align="center"><img src="markdown_images/multiple.png" alt="Quiz"></p>
+Here’s how you can enjoy completing thousands of quizzes with our intuitive layout:
+
+<p align="center"><img src="markdown_images/quiz.png" alt="Quiz"></p>
+<p align="center"><img src="markdown_images/multiple.png" alt="Quiz"></p>
 
 ## Installation and Setup
 1. Clone the repository: `git clone https://github.com/yourusername/learnease.git`
