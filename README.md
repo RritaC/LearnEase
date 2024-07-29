@@ -1,4 +1,4 @@
-<p align="center"><img src="markdown_images/ls.png" alt="LE Logo"></p>
+<p align="center"><img src="markdown_images/logo.png" alt="LE Logo"></p>
 
 
 ## About Learn Ease
